@@ -1,0 +1,6 @@
+{
+    "name": "admin/social_login",
+    "require": {
+        "hybridauth/hybridauth": "^2.14"
+    }
+}
